@@ -1,0 +1,9 @@
+# Maxfiy ma'lumotlar
+.env
+
+# Kutubxonalar (bular serverda npm install orqali qayta yuklanadi)
+node_modules/
+
+# Log fayllar va boshqa keraksiz narsalar
+npm-debug.log*
+.DS_Store
